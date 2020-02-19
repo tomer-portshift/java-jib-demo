@@ -55,7 +55,7 @@
 				<version>0.9.7</version>
 				<configuration>
 					<to>
-						<image>registry.hub.docker.com/eddiewebb/hello-spring:${version}-b${build.number}</image>
+						<image>registry.hub.docker.com/tomerdvir/hello-spring:${version}-b${build.number}</image>
 					</to>
 					<container>
 						<jvmFlags>

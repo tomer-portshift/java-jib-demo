@@ -6,8 +6,8 @@
     <servers>
         <server>
             <id>registry.hub.docker.com</id>
-            <username>eddiewebb</username>
-            <password>{alm+ZYzwdoMHbH0q6H7i4UzLMuEIrQCwihUm0zteVrs=}</password>
+            <username>tomerdvir</username>
+            <password>{2G09XXCTBC4HepW0MoJ+gJ2+2NMmZrxEUAu/Mbb9jlQ=}</password>
         </server>
     </servers>
 </settings>
